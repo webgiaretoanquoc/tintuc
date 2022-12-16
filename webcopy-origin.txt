@@ -1,0 +1,1704 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto+Condensed:regular%2C700%2C700|Roboto:regular%2Cregular|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\s\robotocondensed\v25\ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\s\robotocondensed\v25\ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Fbao-thai-that-cay-dang-moi-giai-dau-gan-day-chung-ta-deu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Fbayern-munich-chinh-thuc-so-huu-bom-tan-la-nha-vo-dich-world-cup%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Fbrazil-nhoc-nhan-thang-ch-czech-nho-cu-dup-cua-gabriel-jesus%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Fchinh-thuc-supachai-nhan-an-phat-cuc-nang-tu-afc-vi-hanh-vi-danh-dinh-trong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Fda-giao-huu-cau-thu-trung-quoc-dap-gay-chan-tien-ve-uzbekistan%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Fduc-chinh-tu-vi-minh-giong-nhu-lukaku-cua-man-united%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Fdung-che-viet-nam-chinh-mot-dai-gia-chau-a-tung-lay-ve-theo-cach-khong-khac-biet%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Ffan-thai-lan-phan-ung-voi-tuyen-bo-cua-hlv-park-hang-seo%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Fhanh-vi-phat-200k-xuat-hien-ngay-tren-song-truyen-hinh-my%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Fhlv-mai-duc-chung-chot-danh-sach-dtqg-hot-girl-tran-thi-duyen-bi-loai%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Fhlv-park-hang-seo-co-the-doi-dau-ban-cu-guus-hiddink%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Fhlv-u23-thai-lan-che-chien-thuat-cua-hlv-park-hang-seo-binh-thuong-thoi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Fnhat-han-bon-hanh-cho-nam-my-chau-a-vuon-len-manh-me%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Fphil-neville-chi-ra-5-cai-ten-manchester-united-can-mua-trong-he-nay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Fsolskjaer-chinh-thuc-duoc-bo-nhiem-lam-hlv-truong-cua-man-united%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc.webtudong8giay.com%252Fson-heung-min-to%25CC%2589a-sang-giup-han-quoc-danh-bai-colombia%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\font-awesome\4.4.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\font-awesome\4.4.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.eot?v=4.4.0
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\font-awesome\4.4.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.svg?v=4.4.0
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\font-awesome\4.4.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.ttf?v=4.4.0
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\font-awesome\4.4.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.woff2?v=4.4.0
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\font-awesome\4.4.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.woff?v=4.4.0
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\font-awesome\4.4.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://static.bongda24h.vn/Medias/icon/2016/6/7/italia.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\2016\6\7\italia.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/2017/6/26/leicester.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\2017\6\26\leicester.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/2017/6/26/manchester-city.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\2017\6\26\manchester-city.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/2018/10/9/Nuernberg.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\2018\10\9\Nuernberg.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/2018/3/2/logo-doi-bong-da-flc-thanh-hoa.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\2018\3\2\logo-doi-bong-da-flc-thanh-hoa.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/2018/3/2/logo-doi-bong-da-quang-nam.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\2018\3\2\logo-doi-bong-da-quang-nam.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/2018/3/2/logo-doi-bong-da-shb-da-nang.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\2018\3\2\logo-doi-bong-da-shb-da-nang.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/2018/3/2/logo-doi-bong-da-than-quang-ninh.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\2018\3\2\logo-doi-bong-da-than-quang-ninh.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/2018/3/5/Ha-noi-FC-bongda24h.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\2018\3\5\Ha-noi-FC-bongda24h.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/2018/9/25/eve.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\2018\9\25\eve.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/2019/3/1/logo-wake-up-v-league-2019.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\2019\3\1\logo-wake-up-v-league-2019.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/2019/3/6/Viettel.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\2019\3\6\Viettel.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/ACMilan_20141014144139.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\ACMilan_20141014144139.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Armenia.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Armenia.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Barcelona_20141016092742.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Barcelona_20141016092742.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/BayernMunich_20141014140231.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\BayernMunich_20141014140231.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Betis_20141014143315.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Betis_20141014143315.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Bordeaux_20141016090748.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Bordeaux_20141016090748.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/Bundesliga.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Bundesliga.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Burnley_20141015093513.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Burnley_20141015093513.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/Champions League.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Champions League.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Chelsea_20151212115624.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Chelsea_20151212115624.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/E.Frankfurt_20141014143618.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\E.Frankfurt_20141014143618.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Empoli_20141015095608.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Empoli_20141015095608.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Europa League.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Europa League.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Frosinone_20151230161109.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Frosinone_20151230161109.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Fulham.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Fulham.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Getafe_20141015131444.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Getafe_20141015131444.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/Greece_20141014135743.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Greece_20141014135743.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/InterMilan_20141014150052.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\InterMilan_20141014150052.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Laliga.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Laliga.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Leverkusen_20141014150107.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Leverkusen_20141014150107.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Liechtenstein_20141016201504.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Liechtenstein_20141016201504.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Ligue 1.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Ligue 1.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Liverpool_20141022141635.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Liverpool_20141022141635.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/Lyon_20141014183932.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Lyon_20141014183932.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Mainz_20141014143737.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Mainz_20141014143737.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Marseille_20141014184348.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Marseille_20141014184348.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Nantes_20141015104951.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Nantes_20141015104951.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/Napoli_20141016092446.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Napoli_20141016092446.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/no_image.gif
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\no_image.gif
+Content Type: image/gif
+
+Uri: https://static.bongda24h.vn/Medias/icon/PhanLan_20141014153338.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\PhanLan_20141014153338.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Premier League.gif
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Premier League.gif
+Content Type: image/gif
+
+Uri: https://static.bongda24h.vn/Medias/icon/PSG_20151212113530.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\PSG_20151212113530.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Reims_20141015113126.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Reims_20141015113126.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/Rennais_20141014143836.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Rennais_20141014143836.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Schalke04_20141014144125.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Schalke04_20141014144125.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/SerieA.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\SerieA.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/Sevilla_20141015141416.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Sevilla_20141015141416.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/Udinese_20141015125525.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Udinese_20141015125525.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/Valencia_20141015140910.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Valencia_20141015140910.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/Vallecano_20141014142646.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Vallecano_20141014142646.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/Villarreal_20141016092557.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Villarreal_20141016092557.jpg
+Content Type: image/jpeg
+
+Uri: https://static.bongda24h.vn/Medias/icon/VLEU.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\VLEU.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/W.Bremen_20141014143642.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\W.Bremen_20141014143642.png
+Content Type: image/png
+
+Uri: https://static.bongda24h.vn/Medias/icon/Zenit_20141015124408.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\Medias\icon\Zenit_20141015124408.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/300x2-adx5c9250dcba9f2/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\300x2-adx5c9250dcba9f2\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/banner-header/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\banner-header\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/banner1/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\banner1\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/bao-thai-that-cay-dang-moi-giai-dau-gan-day-chung-ta-deu/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\bao-thai-that-cay-dang-moi-giai-dau-gan-day-chung-ta-deu\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/bao-thai-that-cay-dang-moi-giai-dau-gan-day-chung-ta-deu/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\bao-thai-that-cay-dang-moi-giai-dau-gan-day-chung-ta-deu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/bayern-munich-chinh-thuc-so-huu-bom-tan-la-nha-vo-dich-world-cup/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\bayern-munich-chinh-thuc-so-huu-bom-tan-la-nha-vo-dich-world-cup\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/bayern-munich-chinh-thuc-so-huu-bom-tan-la-nha-vo-dich-world-cup/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\bayern-munich-chinh-thuc-so-huu-bom-tan-la-nha-vo-dich-world-cup\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/brazil-nhoc-nhan-thang-ch-czech-nho-cu-dup-cua-gabriel-jesus/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\brazil-nhoc-nhan-thang-ch-czech-nho-cu-dup-cua-gabriel-jesus\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/brazil-nhoc-nhan-thang-ch-czech-nho-cu-dup-cua-gabriel-jesus/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\brazil-nhoc-nhan-thang-ch-czech-nho-cu-dup-cua-gabriel-jesus\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/anh/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\anh\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/anh/cup-fa/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\anh\cup-fa\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/anh/cup-fa/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\anh\cup-fa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/anh/cup-lien-doan/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\anh\cup-lien-doan\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/anh/cup-lien-doan/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\anh\cup-lien-doan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/anh/doi-tuyen-anh/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\anh\doi-tuyen-anh\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/anh/doi-tuyen-anh/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\anh\doi-tuyen-anh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/anh/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\anh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/anh/premier-league/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\anh\premier-league\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/anh/premier-league/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\anh\premier-league\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/chau-au/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\chau-au\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/chau-au/champion-league/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\chau-au\champion-league\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/chau-au/champion-league/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\chau-au\champion-league\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/chau-au/euro-2016/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\chau-au\euro-2016\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/chau-au/euro-2016/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\chau-au\euro-2016\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/chau-au/europa-league/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\chau-au\europa-league\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/chau-au/europa-league/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\chau-au\europa-league\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/chau-au/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\chau-au\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/chau-au/nations-league/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\chau-au\nations-league\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/chau-au/nations-league/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\chau-au\nations-league\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/duc/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\duc\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/duc/cup-qg-duc/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\duc\cup-qg-duc\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/duc/cup-qg-duc/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\duc\cup-qg-duc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/duc/doi-tuyen-duc/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\duc\doi-tuyen-duc\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/duc/doi-tuyen-duc/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\duc\doi-tuyen-duc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/duc/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\duc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/e-sport/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\e-sport\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/e-sport/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\e-sport\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/hau-truong/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\hau-truong\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/hau-truong/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\hau-truong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/hau-truong/hot-fan/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\hau-truong\hot-fan\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/hau-truong/hot-fan/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\hau-truong\hot-fan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/hau-truong/quoc-te/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\hau-truong\quoc-te\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/hau-truong/quoc-te/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\hau-truong\quoc-te\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/hau-truong/viet-nam-hau-truong/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\hau-truong\viet-nam-hau-truong\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/hau-truong/viet-nam-hau-truong/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\hau-truong\viet-nam-hau-truong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/hau-truong/wags/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\hau-truong\wags\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/hau-truong/wags/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\hau-truong\wags\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/ket-qua/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\ket-qua\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/ket-qua/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\ket-qua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/sopcast/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\sopcast\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/sopcast/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\sopcast\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/tay-ban-nha/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\tay-ban-nha\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/tay-ban-nha/cup-nha-vua/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\tay-ban-nha\cup-nha-vua\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/tay-ban-nha/cup-nha-vua/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\tay-ban-nha\cup-nha-vua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/tay-ban-nha/doi-tuyen-tay-ban-nha/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\tay-ban-nha\doi-tuyen-tay-ban-nha\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/tay-ban-nha/doi-tuyen-tay-ban-nha/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\tay-ban-nha\doi-tuyen-tay-ban-nha\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/tay-ban-nha/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\tay-ban-nha\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/tay-ban-nha/la-liga/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\tay-ban-nha\la-liga\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/tay-ban-nha/la-liga/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\tay-ban-nha\la-liga\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/video/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\video\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/video/ban-thang/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\video\ban-thang\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/video/ban-thang/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\video\ban-thang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/video/cam-dong/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\video\cam-dong\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/video/cam-dong/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\video\cam-dong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/video/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\video\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/video/hai-huoc/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\video\hai-huoc\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/video/hai-huoc/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\video\hai-huoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/video/tinh-huong/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\video\tinh-huong\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/video/tinh-huong/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\video\tinh-huong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/video/truc-tiep/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\video\truc-tiep\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/video/truc-tiep/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\video\truc-tiep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/asian-cup-2019/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\asian-cup-2019\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/asian-cup-2019/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\asian-cup-2019\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/bong-da-nu/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\bong-da-nu\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/bong-da-nu/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\bong-da-nu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/doi-tuyen-quoc-gia/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\doi-tuyen-quoc-gia\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/doi-tuyen-quoc-gia/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\doi-tuyen-quoc-gia\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/hang-nhat/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\hang-nhat\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/hang-nhat/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\hang-nhat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/spl/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\spl\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/spl/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\spl\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/tuyen-omlimpic/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\tuyen-omlimpic\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/tuyen-omlimpic/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\tuyen-omlimpic\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/v-league/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\v-league\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/category/viet-nam/v-league/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\category\viet-nam\v-league\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/chinh-thuc-supachai-nhan-an-phat-cuc-nang-tu-afc-vi-hanh-vi-danh-dinh-trong/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\chinh-thuc-supachai-nhan-an-phat-cuc-nang-tu-afc-vi-hanh-vi-danh-dinh-trong\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/chinh-thuc-supachai-nhan-an-phat-cuc-nang-tu-afc-vi-hanh-vi-danh-dinh-trong/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\chinh-thuc-supachai-nhan-an-phat-cuc-nang-tu-afc-vi-hanh-vi-danh-dinh-trong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/cropped-logo-1-png/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\cropped-logo-1-png\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/cropped-logo-png/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\cropped-logo-png\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/da-giao-huu-cau-thu-trung-quoc-dap-gay-chan-tien-ve-uzbekistan/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\da-giao-huu-cau-thu-trung-quoc-dap-gay-chan-tien-ve-uzbekistan\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/da-giao-huu-cau-thu-trung-quoc-dap-gay-chan-tien-ve-uzbekistan/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\da-giao-huu-cau-thu-trung-quoc-dap-gay-chan-tien-ve-uzbekistan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/duc-chinh-tu-vi-minh-giong-nhu-lukaku-cua-man-united/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\duc-chinh-tu-vi-minh-giong-nhu-lukaku-cua-man-united\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/duc-chinh-tu-vi-minh-giong-nhu-lukaku-cua-man-united/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\duc-chinh-tu-vi-minh-giong-nhu-lukaku-cua-man-united\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/dung-che-viet-nam-chinh-mot-dai-gia-chau-a-tung-lay-ve-theo-cach-khong-khac-biet/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\dung-che-viet-nam-chinh-mot-dai-gia-chau-a-tung-lay-ve-theo-cach-khong-khac-biet\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/dung-che-viet-nam-chinh-mot-dai-gia-chau-a-tung-lay-ve-theo-cach-khong-khac-biet/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\dung-che-viet-nam-chinh-mot-dai-gia-chau-a-tung-lay-ve-theo-cach-khong-khac-biet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/fan-thai-lan-phan-ung-voi-tuyen-bo-cua-hlv-park-hang-seo/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\fan-thai-lan-phan-ung-voi-tuyen-bo-cua-hlv-park-hang-seo\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/fan-thai-lan-phan-ung-voi-tuyen-bo-cua-hlv-park-hang-seo/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\fan-thai-lan-phan-ung-voi-tuyen-bo-cua-hlv-park-hang-seo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/feed/?attachment_id=22
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\feed\index-3.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/feed/?attachment_id=255
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\feed\index-6.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/feed/?attachment_id=256
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\feed\index-4.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/feed/?attachment_id=313
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\feed\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/feed/?attachment_id=409
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/feed/?attachment_id=49
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\feed\index-5.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/feed/?attachment_id=52
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\feed\index-7.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/feed/?attachment_id=56
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\feed\index-8.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/hanh-vi-phat-200k-xuat-hien-ngay-tren-song-truyen-hinh-my/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\hanh-vi-phat-200k-xuat-hien-ngay-tren-song-truyen-hinh-my\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/hanh-vi-phat-200k-xuat-hien-ngay-tren-song-truyen-hinh-my/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\hanh-vi-phat-200k-xuat-hien-ngay-tren-song-truyen-hinh-my\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/hdhd/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\hdhd\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/hlv-mai-duc-chung-chot-danh-sach-dtqg-hot-girl-tran-thi-duyen-bi-loai/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\hlv-mai-duc-chung-chot-danh-sach-dtqg-hot-girl-tran-thi-duyen-bi-loai\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/hlv-mai-duc-chung-chot-danh-sach-dtqg-hot-girl-tran-thi-duyen-bi-loai/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\hlv-mai-duc-chung-chot-danh-sach-dtqg-hot-girl-tran-thi-duyen-bi-loai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/hlv-park-hang-seo-co-the-doi-dau-ban-cu-guus-hiddink/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\hlv-park-hang-seo-co-the-doi-dau-ban-cu-guus-hiddink\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/hlv-park-hang-seo-co-the-doi-dau-ban-cu-guus-hiddink/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\hlv-park-hang-seo-co-the-doi-dau-ban-cu-guus-hiddink\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/hlv-u23-thai-lan-che-chien-thuat-cua-hlv-park-hang-seo-binh-thuong-thoi/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\hlv-u23-thai-lan-che-chien-thuat-cua-hlv-park-hang-seo-binh-thuong-thoi\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/hlv-u23-thai-lan-che-chien-thuat-cua-hlv-park-hang-seo-binh-thuong-thoi/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\hlv-u23-thai-lan-che-chien-thuat-cua-hlv-park-hang-seo-binh-thuong-thoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/logo/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\logo\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/logo_baophapluat/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\logo_baophapluat\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/nhat-han-bon-hanh-cho-nam-my-chau-a-vuon-len-manh-me/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\nhat-han-bon-hanh-cho-nam-my-chau-a-vuon-len-manh-me\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/nhat-han-bon-hanh-cho-nam-my-chau-a-vuon-len-manh-me/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\nhat-han-bon-hanh-cho-nam-my-chau-a-vuon-len-manh-me\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/phil-neville-chi-ra-5-cai-ten-manchester-united-can-mua-trong-he-nay/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\phil-neville-chi-ra-5-cai-ten-manchester-united-can-mua-trong-he-nay\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/phil-neville-chi-ra-5-cai-ten-manchester-united-can-mua-trong-he-nay/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\phil-neville-chi-ra-5-cai-ten-manchester-united-can-mua-trong-he-nay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/solskjaer-chinh-thuc-duoc-bo-nhiem-lam-hlv-truong-cua-man-united/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\solskjaer-chinh-thuc-duoc-bo-nhiem-lam-hlv-truong-cua-man-united\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/solskjaer-chinh-thuc-duoc-bo-nhiem-lam-hlv-truong-cua-man-united/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\solskjaer-chinh-thuc-duoc-bo-nhiem-lam-hlv-truong-cua-man-united\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/son-heung-min-tỏa-sang-giup-han-quoc-danh-bai-colombia/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\son-heung-min-tỏa-sang-giup-han-quoc-danh-bai-colombia\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/son-heung-min-tỏa-sang-giup-han-quoc-danh-bai-colombia/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\son-heung-min-tỏa-sang-giup-han-quoc-danh-bai-colombia\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/tag/bong-da-chau-au/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\bong-da-chau-au\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/tag/bong-da-chau-au/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\bong-da-chau-au\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/tag/bong-da-ngoai-hang-anh/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\bong-da-ngoai-hang-anh\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/tag/bong-da-ngoai-hang-anh/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\bong-da-ngoai-hang-anh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/tag/bong-da-nu/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\bong-da-nu\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/tag/bong-da-nu/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\bong-da-nu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/tag/bong-da-viet-nam/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\bong-da-viet-nam\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/tag/bong-da-viet-nam/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\bong-da-viet-nam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/tag/bong-da/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\bong-da\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/tag/bong-da/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\bong-da\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/tag/chau-au/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\chau-au\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/tag/chau-au/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\chau-au\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/tag/giai-chau-au-mo-rong/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\giai-chau-au-mo-rong\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/tag/giai-chau-au-mo-rong/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\giai-chau-au-mo-rong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/tag/han-quoc/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\han-quoc\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/tag/han-quoc/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\han-quoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/tag/nhat-ban/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\nhat-ban\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/tag/nhat-ban/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\nhat-ban\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/tag/thai-lan/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\thai-lan\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/tag/thai-lan/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\thai-lan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/tag/tin-bong-da/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\tin-bong-da\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/tag/tin-bong-da/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\tin-bong-da\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/tag/trung-quoc/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\trung-quoc\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/tag/trung-quoc/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\trung-quoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/tag/viet-nam/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\viet-nam\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/tag/viet-nam/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\tag\viet-nam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/trang-mau/feed/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\trang-mau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc.webtudong8giay.com/video/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\video\index.htm
+Content Type: text/html
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/300x2-adx5c9250dcba9f2.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\300x2-adx5c9250dcba9f2.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/banner-header-300x24.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\banner-header-300x24.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/banner-header-768x61.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\banner-header-768x61.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/banner-header.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\banner-header.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/banner1-300x250.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\banner1-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/banner1.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/cropped-logo-1-150x150.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\cropped-logo-1-150x150.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/cropped-logo-1-180x180.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\cropped-logo-1-180x180.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/cropped-logo-1-192x192.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\cropped-logo-1-192x192.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/cropped-logo-1-270x270.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\cropped-logo-1-270x270.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/cropped-logo-1-300x300.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\cropped-logo-1-300x300.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/cropped-logo-1-32x32.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\cropped-logo-1-32x32.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/cropped-logo-1.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\cropped-logo-1.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/cropped-logo-150x150.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\cropped-logo-150x150.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/cropped-logo-180x180.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\cropped-logo-180x180.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/cropped-logo-192x192.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\cropped-logo-192x192.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/cropped-logo-270x270.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\cropped-logo-270x270.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/cropped-logo-300x300.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\cropped-logo-300x300.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/cropped-logo-32x32.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\cropped-logo-32x32.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/cropped-logo.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\cropped-logo.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/hdhd-300x17.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\hdhd-300x17.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/hdhd-768x45.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\hdhd-768x45.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/hdhd.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\hdhd.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/logo.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\logo.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/logo_baophapluat.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\logo_baophapluat.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/post10-150x150.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\post10-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/post11-150x150.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\post11-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/post12-150x150.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\post12-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/post13-150x150.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\post13-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/post3-150x150.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\post3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/post4-150x150.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\post4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/post5-150x150.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\post5-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/post6-150x150.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\post6-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/post8-150x150.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\post8-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/post9-150x150.jpg
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\post9-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc.webtudong8giay.com/wp-content/uploads/2019/03/video.png
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-content\uploads\2019\03\video.png
+Content Type: image/png
+
+Uri: https://tintuc.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://tintuc.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://tintuc.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://tintuc.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://tintuc.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://tintuc.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2F300x2-adx5c9250dcba9f2%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2F300x2-adx5c9250dcba9f2%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fbanner-header%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fbanner-header%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fbanner1%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fbanner1%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fbao-thai-that-cay-dang-moi-giai-dau-gan-day-chung-ta-deu%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fbao-thai-that-cay-dang-moi-giai-dau-gan-day-chung-ta-deu%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fbayern-munich-chinh-thuc-so-huu-bom-tan-la-nha-vo-dich-world-cup%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fbayern-munich-chinh-thuc-so-huu-bom-tan-la-nha-vo-dich-world-cup%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fbrazil-nhoc-nhan-thang-ch-czech-nho-cu-dup-cua-gabriel-jesus%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fbrazil-nhoc-nhan-thang-ch-czech-nho-cu-dup-cua-gabriel-jesus%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fchinh-thuc-supachai-nhan-an-phat-cuc-nang-tu-afc-vi-hanh-vi-danh-dinh-trong%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fchinh-thuc-supachai-nhan-an-phat-cuc-nang-tu-afc-vi-hanh-vi-danh-dinh-trong%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fcropped-logo-1-png%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fcropped-logo-1-png%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fcropped-logo-png%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fcropped-logo-png%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fda-giao-huu-cau-thu-trung-quoc-dap-gay-chan-tien-ve-uzbekistan%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fda-giao-huu-cau-thu-trung-quoc-dap-gay-chan-tien-ve-uzbekistan%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fduc-chinh-tu-vi-minh-giong-nhu-lukaku-cua-man-united%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fduc-chinh-tu-vi-minh-giong-nhu-lukaku-cua-man-united%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fdung-che-viet-nam-chinh-mot-dai-gia-chau-a-tung-lay-ve-theo-cach-khong-khac-biet%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fdung-che-viet-nam-chinh-mot-dai-gia-chau-a-tung-lay-ve-theo-cach-khong-khac-biet%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Ffan-thai-lan-phan-ung-voi-tuyen-bo-cua-hlv-park-hang-seo%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Ffan-thai-lan-phan-ung-voi-tuyen-bo-cua-hlv-park-hang-seo%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fhanh-vi-phat-200k-xuat-hien-ngay-tren-song-truyen-hinh-my%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fhanh-vi-phat-200k-xuat-hien-ngay-tren-song-truyen-hinh-my%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fhdhd%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fhdhd%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fhlv-mai-duc-chung-chot-danh-sach-dtqg-hot-girl-tran-thi-duyen-bi-loai%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fhlv-mai-duc-chung-chot-danh-sach-dtqg-hot-girl-tran-thi-duyen-bi-loai%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fhlv-park-hang-seo-co-the-doi-dau-ban-cu-guus-hiddink%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fhlv-park-hang-seo-co-the-doi-dau-ban-cu-guus-hiddink%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fhlv-u23-thai-lan-che-chien-thuat-cua-hlv-park-hang-seo-binh-thuong-thoi%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fhlv-u23-thai-lan-che-chien-thuat-cua-hlv-park-hang-seo-binh-thuong-thoi%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Flogo%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Flogo%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Flogo_baophapluat%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Flogo_baophapluat%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fnhat-han-bon-hanh-cho-nam-my-chau-a-vuon-len-manh-me%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fnhat-han-bon-hanh-cho-nam-my-chau-a-vuon-len-manh-me%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fphil-neville-chi-ra-5-cai-ten-manchester-united-can-mua-trong-he-nay%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fphil-neville-chi-ra-5-cai-ten-manchester-united-can-mua-trong-he-nay%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fsolskjaer-chinh-thuc-duoc-bo-nhiem-lam-hlv-truong-cua-man-united%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fsolskjaer-chinh-thuc-duoc-bo-nhiem-lam-hlv-truong-cua-man-united%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fson-heung-min-to%25cc%2589a-sang-giup-han-quoc-danh-bai-colombia%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fson-heung-min-to%25cc%2589a-sang-giup-han-quoc-danh-bai-colombia%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fvideo%2F
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc.webtudong8giay.com%2Fvideo%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/10
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\10
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/2
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\2
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/27
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\27
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/28
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\28
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/29
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\29
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/3
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/30
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\30
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/31
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\31
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/32
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\32
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/33
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\33
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/34
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\34
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/35
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\35
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/36
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\36
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/37
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\37
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/38
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\38
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/39
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\39
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/4
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\4
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/40
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\40
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/41
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\41
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/42
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\42
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/43
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\43
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/44
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\44
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/45
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\45
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/46
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\46
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/47
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\47
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/48
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\48
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/49
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\49
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/5
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\5
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/50
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\50
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/51
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\51
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/52
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\52
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/53
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\53
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/54
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\54
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/55
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\55
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/6
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\6
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/7
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\7
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/8
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\8
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/categories/9
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\categories\9
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/media/22
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\media\22
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/media/255
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\media\255
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/media/256
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\media\256
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/media/313
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\media\313
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/media/409
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\media\409
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/media/49
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\media\49
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/media/52
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\media\52
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/media/56
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\media\56
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/media/645
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\media\645
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/100
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\100
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/103
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\103
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/106
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\106
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/61
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\61
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/64
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\64
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/67
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\67
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/70
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\70
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/73
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\73
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/76
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\76
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/79
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\79
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/82
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\82
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/85
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\85
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/88
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\88
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/91
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\91
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/94
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\94
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/posts/97
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\posts\97
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/tags/12
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\tags\12
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/tags/13
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\tags\13
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/tags/14
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\tags\14
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/tags/15
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\tags\15
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/tags/16
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\tags\16
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/tags/17
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\tags\17
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/tags/18
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\tags\18
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/tags/19
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\tags\19
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/tags/20
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\tags\20
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/tags/21
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\tags\21
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/tags/22
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\tags\22
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/tags/24
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\tags\24
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/wp-json/wp/v2/tags/25
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\wp-json\wp\v2\tags\25
+Content Type: application/json
+
+Uri: https://tintuc.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\tintuc.webtudong8giay.com\xmlrpc.php.html
+Content Type: text/html
+
